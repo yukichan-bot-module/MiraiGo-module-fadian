@@ -14,7 +14,7 @@ import (
 	"github.com/Mrs4s/MiraiGo/message"
 )
 
-//go:embed assets/zhenxun_plugin_meiriyiju/resource/post.json
+//go:embed assets/post.json
 var postJSONData []byte
 
 var instance *fadian
