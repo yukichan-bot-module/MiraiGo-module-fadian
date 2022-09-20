@@ -6,6 +6,8 @@ Module for [MiraiGo-Template](https://github.com/Logiase/MiraiGo-Template)
 
 [xipesoy/zhenxun_plugin_meiriyiju](https://github.com/xipesoy/zhenxun_plugin_meiriyiju) 的 go 语言实现
 
+本仓库全部发癫文均来源于互联网，如有侵权可以联系删除。
+
 ## 功能
 
 - 接受到指定消息后发送发癫消息
